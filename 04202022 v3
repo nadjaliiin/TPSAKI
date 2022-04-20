@@ -16,14 +16,11 @@ http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4348
 #EXTINF:-1,  PRVA KICK
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4347
 #EXTINF:-1,  N1 SRBIJA
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4345
-#EXTINF:-1,  NOVA S
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4339
 #EXTINF:-1,  NOVA M
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4327
 
-#EXTINF:-1,### Pink Kanali ###
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10370
+
 #EXTINF:-1,  PINK HD
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10369
 #EXTINF:-1,  PINK 2
@@ -53,8 +50,7 @@ http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10343
 #EXTINF:-1,  PINK ROMANCE
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10340
 
-#EXTINF:-1,### Filmski kanali ###
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10328
+
 #EXTINF:-1,  HBO HD
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10327
 #EXTINF:-1,  HBO 2 HD
@@ -111,8 +107,6 @@ http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10302
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10301
 
 
-#EXTINF:-1,### (UA) Ukrajinski kanali ###
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10267
 #EXTINF:-1,|UA| UA TV
 http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,|UA| 1 1
@@ -121,11 +115,8 @@ http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/9427
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/9392
 #EXTINF:-1,|UA| TET
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/9426
-#EXTINF:-1,|UA| UA TV
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 
-#EXTINF:-1,### (RU) Ruski kanali ###
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10267
+
 #EXTINF:-1,|RU| TV1000 World Kino
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/1296
 #EXTINF:-1,|RU| Kino Hit
@@ -134,8 +125,6 @@ https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/1319
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/1320
 
 
-#EXTINF:-1,###   Dokumentarci ###
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10300
 #EXTINF:-1,  ANIMAL PLANET
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10298
 #EXTINF:-1,  24 KITCHEN
@@ -186,14 +175,11 @@ http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10271
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10268
 
 
-#EXTINF:-1,### Hrvatska ###
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10703
+
 #EXTINF:-1,(HR) HRT 1 HD
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10701
 #EXTINF:-1,(HR) HRT 2 HD
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10699
-#EXTINF:-1,(HR) NOVA TV HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10693
 #EXTINF:-1,(HR) RTL HR
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10689
 #EXTINF:-1,(HR) RTL 2
@@ -207,8 +193,6 @@ http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10685
 
 
 
-
-#EXTINF:-1,### Muzicki ###
 #EXTINF:-1,|US| MC MUSIC 90S
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/291825
 #EXTINF:-1,|US| MC MUSIC 80S
@@ -219,6 +203,5 @@ http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/9493
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/348769
 #EXTINF:-1,|US| STINGRAY REMEMBER THE 80S
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/291822
-#EXTINF:-1,|US| MC MUSIC 80S
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/291858
+
 
