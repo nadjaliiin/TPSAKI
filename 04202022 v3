@@ -2,27 +2,27 @@
 #EXTINF:-1,### SANDRA VGENIJE###
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4359
 #EXTINF:-1,  EPRVA HD
-http://91.213.59.156/play/33/index.m3u8
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,  PRVA PLUS
-http://185.252.249.83:8000/play/a01n
+http://iptvtree.net:8080/ace2524d/15a571c413/10730
 #EXTINF:-1,  PRVA WORLD
-https://ua-tv.cdn-01.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0e6d904753497c65f318036959675267c89b5900
 #EXTINF:-1,  B92 TV
-http://saveukraine.only4.tv/6555/video.m3u8?token=saveUkrain
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,  PRVA KICK
-http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,  N1 SRBIJA
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+http://saveukraine.only4.tv/6550/video.m3u8?token=eq51iK5a5z
 #EXTINF:-1,  NOVA M
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
+http://hls.stb.md/UATV_HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjMxLjMxLjI2LjEyMyIsIm5iZiI6MTY2NDg5ODIwMCwiZXhwIjoxNjY0OTg0NjAwLCJpYXQiOjE2NjQ4OTgyMDAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.963kW_c53J01AtZXruvWV6HsISn4LMSf6Ten8kSPtz8
 
 
 #EXTINF:-1,  PINK HD
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,  PINK 2
-http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,  PINK ACTION
-http://live.iptvmerkezi.com:8080/alican/alican1/2371
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/uatv.stream/chunks.m3u8
 #EXTINF:-1,  PINK CLASSIC
 http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/1335.ts
 #EXTINF:-1,  PINK HAHA
