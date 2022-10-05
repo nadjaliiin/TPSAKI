@@ -1,28 +1,26 @@
 #EXTM3U
 #EXTINF:-1,### SANDRA VGENIJE###
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4359
-#EXTVLCOPT:network-caching=1000
-http://main-url.glass-iptv.xyz:39512/live/Almir@BIBERKIC/dusqcMAX52rM/1314.ts
 #EXTINF:-1,  EPRVA HD
-http://satelliteiptv.xyz:8080/Dare/4xar732xhp/692999
+http://91.213.59.156/play/33/index.m3u8
 #EXTINF:-1,  PRVA PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://red.ipfox.org:8080/1234/12345678/35887
+http://185.252.249.83:8000/play/a01n
 #EXTINF:-1,  PRVA WORLD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1000
+https://ua-tv.cdn-01.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,  B92 TV
-http://line.mytv-es.com:80/robibart/SUM4VSKT7D/104520
+http://saveukraine.only4.tv/6555/video.m3u8?token=saveUkrain
 #EXTINF:-1,  PRVA KICK
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21692
+http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
 #EXTINF:-1,  N1 SRBIJA
-http://iptvtree.net:8080/ace2524d/15a571c413/267170
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
 #EXTINF:-1,  NOVA M
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/139235
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:-1,  PINK HD
-http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/16126
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,  PINK 2
-http://live.iptvmerkezi.com:8080/alican/alican1/24921
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
 #EXTINF:-1,  PINK ACTION
 http://live.iptvmerkezi.com:8080/alican/alican1/2371
 #EXTINF:-1,  PINK CLASSIC
