@@ -1,123 +1,104 @@
 #EXTM3U
-#EXTINF:-1,###GLAVNA LISTA 25januar###
+#EXTINF:-1,###Alternativa 1###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
 
  
-#EXTINF:-1,Prva
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1851
+#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1460
+#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus HD RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="Live: ex-Yu Countries",Prva Plus HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1459
+#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/13798
 
-#EXTINF:-1,Prva Plus
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1264
-
-#EXTINF:-1,Prva World
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1267
-
-#EXTINF:-1, B92
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1271
-
-#EXTINF:-1,Prva Kick
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1265
-
-#EXTINF:-1,N1
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1146
-
-#EXTINF:-1,Nova M
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1268
-
-#EXTINF:-1,Nova S
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1272
-
-#EXTINF:-1,RTS 1 (HD)
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1255
-
-#EXTINF:-1,Pink 2 (Red TV)
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1290
-#EXTINF:-1,Pink Romance
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1306
-#EXTINF:-1,Pink Premium
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1307
-#EXTINF:-1,Pink Movies
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1294
-#EXTINF:-1,Pink Action
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1295
-#EXTINF:-1,Pink Comedy
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1296
-#EXTINF:-1,Pink Crime & Mystery
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1299
-#EXTINF:-1,Pink Sci-Fi&Fantasy
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1300
-#EXTINF:-1, Pink Thriller
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1301
-#EXTINF:-1,Epic Drama
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/39858
-#EXTINF:-1,TLC
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1279
-#EXTINF:-1,NOVA
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1200
-#EXTINF:-1, FOX
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1201
-#EXTINF:-1,FOX Life
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1202
-#EXTINF:-1,FOX Crime
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1203
-#EXTINF:-1,FOX Movies
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1204
-#EXTINF:-1,HBO
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1161
-#EXTINF:-1,HBO 2
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1162
-#EXTINF:-1,HBO 3
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1163
-#EXTINF:-1,Kino TV
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1164
-#EXTINF:-1,Cinestar TV
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1165
-
-
-#EXTINF:-1,Cinemania NEW
-http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17270
-#EXTINF:-1,Cinemania OLD
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/38580
-
-#EXTINF:-1,Cinestar TV 2 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/36502
-#EXTINF:-1,CineStar TV Comedy 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/39055
-#EXTINF:-1,Cinestar Premiere 1
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1166
-#EXTINF:-1,Cinestar Premiere 2 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1167
-#EXTINF:-1,Cinestar Action
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1168
-#EXTINF:-1,Cinestar Fantasy
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1169
-
-#EXTINF:-1,M1 Family
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/36515
-#EXTINF:-1,TV 1000
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1170
-#EXTINF:-1,AXN
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1171
-#EXTINF:-1,AXN Spin
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1172
-#EXTINF:-1,Klasik TV
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1173
-#EXTINF:-1,Cinemax 1
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1175
-#EXTINF:-1,Cinemax 2
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1176
-#EXTINF:-1,Filmbox Extra
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1179
-#EXTINF:-1,Filmbox Arthouse
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1180
-#EXTINF:-1,Cineplex
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1181
+#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/71021
  
+#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17262
 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/243490
+#EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="Prva Kick RS" tvg-logo="https://picon-13398.kxcdn.com/prvakickrs.jpg" group-title="Live: ex-Yu Countries",Prva Kick RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28045
+#EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="Live: ex-Yu Countries",N1 HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/3197
+
+#EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="Live: ex-Yu Countries",Nova S FHD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/19166
+ 
+#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="Live: ex-Yu Countries",Pink Romance RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/3200
+#EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="Pink Plus RS" tvg-logo="https://picon-13398.kxcdn.com/pinkplusexyu.jpg" group-title="Live: ex-Yu Countries",Pink Plus RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/3198
+#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-name="Pink Family RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfamilyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Family RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/23848
+
+#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="Pink Premium RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpremiumexyu.jpg" group-title="Live: ex-Yu Countries",Pink Premium RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/2029
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="Pink Movies RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmoviesexyu.jpg" group-title="Live: ex-Yu Countries",Pink Movies RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/13758
+#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="Pink Action RS" tvg-logo="https://picon-13398.kxcdn.com/pinkactionexyu.jpg" group-title="Live: ex-Yu Countries",Pink Action RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/2041
+#EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="Pink Comedy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcomedyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Comedy RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/2045
 
 
+#EXTINF:-1 tvg-id="TV1000.hr" tvg-name="TV 1000 HR" tvg-logo="https://picon-13398.kxcdn.com/tv1000exyu.jpg" group-title="Live: ex-Yu Countries",TV 1000 HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/11275
 
+#EXTINF:-1 tvg-id="AMC.hr" tvg-name="AMC HD RS" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg" group-title="Live: ex-Yu Countries",AMC HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17276
+#EXTINF:-1 tvg-id="AXN.hr" tvg-name="AXN HR" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Live: ex-Yu Countries",AXN HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/13764
+#EXTINF:-1 tvg-id="AXNSpin.rs" tvg-name="AXN Spin RS" tvg-logo="https://picon-13398.kxcdn.com/axnspinhd.jpg" group-title="Live: ex-Yu Countries",AXN Spin RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28394
+#EXTINF:-1 tvg-id="Diva.hr" tvg-name="Diva HR" tvg-logo="https://picon-13398.kxcdn.com/divaexyu.jpg" group-title="Live: ex-Yu Countries",Diva HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/13770
+#EXTINF:-1 tvg-id="Kinotv.hr" tvg-name="Kino TV HD HR" tvg-logo="https://picon-13398.kxcdn.com/kinotvhr.jpg" group-title="Live: ex-Yu Countries",Kino TV HD HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/27548
+#EXTINF:-1 tvg-id="FOX.rs" tvg-name="Fox HD RS" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: ex-Yu Countries",Fox HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/52133
+#EXTINF:-1 tvg-id="FoxMovies.hr" tvg-name="FOX Movies HR" tvg-logo="https://picon-13398.kxcdn.com/foxmovies.jpg" group-title="Live: ex-Yu Countries",FOX Movies HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1451
+#EXTINF:-1 tvg-id="FoxLife.hr" tvg-name="FOX Life HR" tvg-logo="https://picon-13398.kxcdn.com/foxlife.jpg" group-title="Live: ex-Yu Countries",FOX Life HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1450
+#EXTINF:-1 tvg-id="FOXCrime.rs" tvg-name="FOX Crime RS" tvg-logo="https://picon-13398.kxcdn.com/foxcrime.jpg" group-title="Live: ex-Yu Countries",FOX Crime RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1449
+#EXTINF:-1 tvg-id="" tvg-name="Star TV RS" tvg-logo="https://picon-13398.kxcdn.com/startvrs.jpg" group-title="Live: ex-Yu Countries",Star TV RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28252
+#EXTINF:-1 tvg-id="SuperstarTV.rs" tvg-name="Superstar TV RS" tvg-logo="https://picon-13398.kxcdn.com/superstartvrs.jpg" group-title="Live: ex-Yu Countries",Superstar TV RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/27308
+#EXTINF:-1 tvg-id="" tvg-name="Superstar TV 2 RS" tvg-logo="" group-title="Live: ex-Yu Countries",Superstar TV 2 RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/92030
+
+#EXTINF:-1 tvg-id="HBO.rs" tvg-name="HBO HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: ex-Yu Countries",HBO HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1452
+#EXTINF:-1 tvg-id="HBO2.rs" tvg-name="HBO 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: ex-Yu Countries",HBO 2 HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17920
+#EXTINF:-1 tvg-id="HBO3.rs" tvg-name="HBO 3 HD RS" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Live: ex-Yu Countries",HBO 3 HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17918
+#EXTINF:-1 tvg-id="CinestarTv.hr" tvg-name="CineStar TV 1 SR" tvg-logo="https://picon-13398.kxcdn.com/cinestarexyu.jpg" group-title="Live: ex-Yu Countries",CineStar TV 1 SR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/13794
+#EXTINF:-1 tvg-id="CinestarTv.hr" tvg-name="Cinestar TV 1 HD HR" tvg-logo="https://picon-13398.kxcdn.com/cinestarexyu.jpg" group-title="Live: ex-Yu Countries",Cinestar TV 1 HD HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/87099
+#EXTINF:-1 tvg-id="CinestarTV2.hr" tvg-name="Cinestar TV 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/cinestartv2hr.jpg" group-title="Live: ex-Yu Countries",Cinestar TV 2 HD HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/80021
+#EXTINF:-1 tvg-id="CineStarPremiere1.rs" tvg-name="CineStar Premiere 1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere1exyu.jpg" group-title="Live: ex-Yu Countries",CineStar Premiere 1 HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1468
+#EXTINF:-1 tvg-id="CineStarPremiere2.rs" tvg-name="CineStar Premiere 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinepremiere2exyu.jpg" group-title="Live: ex-Yu Countries",CineStar Premiere 2 HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1469
+#EXTINF:-1 tvg-id="CinestarActionThriller.hr" tvg-name="CineStar TV Action HR" tvg-logo="https://picon-13398.kxcdn.com/cinestaractionexyu.jpg" group-title="Live: ex-Yu Countries",CineStar TV Action HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/3180
+#EXTINF:-1 tvg-id="CinestarComedy.hr" tvg-name="Cinestar TV Comedy HD HR" tvg-logo="https://picon-13398.kxcdn.com/cinestartvcomedyhr.jpg" group-title="Live: ex-Yu Countries",Cinestar TV Comedy HD HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/80022
+#EXTINF:-1 tvg-id="CinestarFantasy.hr" tvg-name="CineStar TV Fantasy HR" tvg-logo="https://picon-13398.kxcdn.com/cienstarfantasyhr.jpg" group-title="Live: ex-Yu Countries",CineStar TV Fantasy HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/24331
+#EXTINF:-1 tvg-id="Cinemania.rs" tvg-name="Cinemania RS" tvg-logo="https://picon-13398.kxcdn.com/cinemaniars.jpg" group-title="Live: ex-Yu Countries",Cinemania RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17270
+#EXTINF:-1 tvg-id="Cinemax.rs" tvg-name="Cinemax HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="Live: ex-Yu Countries",Cinemax HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/2022
+#EXTINF:-1 tvg-id="Cinemax2.rs" tvg-name="Cinemax 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/cinemax2.jpg" group-title="Live: ex-Yu Countries",Cinemax 2 HD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/2023
+
+  
 #EXTINF:-1,|UA| UA TV
 http://iptvtree.net:8080/ace2524d/15a571c413/163060
 #EXTINF:-1,|UA| ua tv
@@ -130,25 +111,33 @@ http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/247696
 http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/243419
 #EXTINF:-1,|RU| Kino Hit
 http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/243490
- 
-
-
-#EXTINF:-1,National Geographic
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1136
-#EXTINF:-1,National Geographic Wild
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1137
-#EXTINF:-1,History Channel
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1138
-#EXTINF:-1,ID Xtra
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1139
-#EXTINF:-1,Crime & Investigation
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1140
-
-#EXTINF:-1,Travel Channel
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1159
-#EXTINF:-1,RTL 
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1194
- 
-
-  
-
+ #EXTINF:-1 tvg-id="DiscoveryChannel.rs" tvg-name="Discovery Channel RS" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: ex-Yu Countries",Discovery Channel RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1445
+#EXTINF:-1 tvg-id="DiscoveryScience.hr" tvg-name=" Discovery Science FHD RS" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Live: ex-Yu Countries", Discovery Science FHD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/80023
+#EXTINF:-1 tvg-id="DiscoveryIDXtra.rs" tvg-name="DTX HR" tvg-logo="https://picon-13398.kxcdn.com/dtx.jpg" group-title="Live: ex-Yu Countries",DTX HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17924
+#EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic HD HR" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: ex-Yu Countries",National Geographic HD HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1472
+#EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="National Geographic RS" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: ex-Yu Countries",National Geographic RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28070
+#EXTINF:-1 tvg-id="NatGeoWild.rs" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: ex-Yu Countries",National Geographic Wild RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17923
+#EXTINF:-1 tvg-id="TravelChannel.hr" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: ex-Yu Countries",Travel Channel RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17865
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Trip RS" tvg-logo="https://picon-13398.kxcdn.com/balkantriprs.jpg" group-title="Live: ex-Yu Countries",Balkan Trip RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/91881
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD HR" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Live: ex-Yu Countries",BBC Earth HD HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28398
+#EXTINF:-1 tvg-id="BBCEarth.se" tvg-name="BBC Earth Adria ex-Yu" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Live: ex-Yu Countries",BBC Earth Adria ex-Yu
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28388
+#EXTINF:-1 tvg-id="HistoryChannel.hr" tvg-name="History HR" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: ex-Yu Countries",History HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1454
+#EXTINF:-1 tvg-id="HistoryChannel2.rs" tvg-name="H2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Live: ex-Yu Countries",H2 FHD RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/22972
+#EXTINF:-1 tvg-id="ViasatExplore.rs" tvg-name="Viasat Explore RS" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Live: ex-Yu Countries",Viasat Explore RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28071
+#EXTINF:-1 tvg-id="ViasatNature.hr" tvg-name="Viasat Nature HR" tvg-logo="https://picon-13398.kxcdn.com/viasatnature.jpg" group-title="Live: ex-Yu Countries",Viasat Nature HR
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/28399
+#EXTINF:-1 tvg-id="ViasatHistory.rs" tvg-name="Viasat History RS" tvg-logo="https://picon-13398.kxcdn.com/viasathistory.jpg" group-title="Live: ex-Yu Countries",Viasat History RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/19006
