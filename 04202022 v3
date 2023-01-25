@@ -1,114 +1,130 @@
 #EXTM3U
-#EXTINF:-1,###b 25/januarE###
+#EXTINF:-1,###d 25/januarE###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
 
-
-#EXTINF:-1 tvg-id="PRVA" tvg-name="PRVA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/prva-srpska-logo.png",Prva
-http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=prva
-
-
-*#EXTINF:-1 tvg-id="PRVAPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/logo/PrvaPlus_SRB.png" group-title="Srbija",Prva Plus
-http://5.254.16.186/K1/mono.m3u8
-*#EXTINF:-1,  PRVA PLUS
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1001
-*#EXTINF:-1,  PRVA WORLD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1000
-
-
-#EXTINF: -1 tvg-id="B92" tvg-name="B92" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/b92_play_radio.jpg",B 92 
-http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=b92
-
-
-
-*#EXTINF:-1,  PRVA KICK
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1011
-
-#EXTINF:-1 ,N1SRB
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
-
-
-
-*#EXTINF:-1,  NOVA M
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/17700
  
- 
-#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink RS" tvg-logo="https://www.logolynx.com/images/logolynx/6c/6ce033a5b4e98cfde9a16746a1266fc4.jpeg",Pink 1 
-http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
+#EXTINF:-1,Ex-Yu: Prva TV (HD)
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1851
 
-#EXTINF:-1 tvg-id="RTS1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/logo/RTS1_SRB.png",RTS1
-http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts1
+#EXTINF:-1,Ex-Yu: Prva Plus
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1264
 
-****
-#EXTINF:-1,  PINK 2
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/6011
-#EXTINF:-1,  PINK ACTION
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1061
-#EXTINF:-1,  PINK CLASSIC
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/3731
-#EXTINF:-1,  PINK HAHA
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1087
-#EXTINF:-1,  PINK LOL
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1088
-#EXTINF:-1,  PINK COMEDY
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1062
-#EXTINF:-1,  PINK PREMIUM
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1069
-#EXTINF:-1,  PINK CRIME & MYSTERY
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1075
-#EXTINF:-1,  PINK SCI-FI-FANTASY
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1076
-#EXTINF:-1,  PINK THRILLER
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1080
-#EXTINF:-1,  PINK WORLD CINEMA
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1096
-#EXTINF:-1,  PINK WESTERN
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1068
-#EXTINF:-1,  PINK ROMANCE
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1077
+#EXTINF:-1,Ex-Yu: Prva World
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1267
+
+#EXTINF:-1,Ex-Yu:  B92
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1271
+
+#EXTINF:-1,Ex-Yu: Prva Kick
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1265
+
+#EXTINF:-1,Ex-Yu: N1
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1146
+
+#EXTINF:-1,Ex-Yu: Nova M
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1268
+
+#EXTINF:-1,Ex-Yu: Nova S
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1272
+
+#EXTINF:-1,Ex-Yu: RTS 1 (HD)
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1255
+
+#EXTINF:-1,Ex-Yu: Pink 2 (Red TV)
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1290
+#EXTINF:-1,Ex-Yu: Pink Romance
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1306
+#EXTINF:-1,Ex-Yu: Pink Premium
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1307
+#EXTINF:-1,Ex-Yu: Pink Movies
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1294
+#EXTINF:-1,Ex-Yu: Pink Action
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1295
+#EXTINF:-1,Ex-Yu: Pink Comedy
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1296
+#EXTINF:-1,Ex-Yu: Pink Crime & Mystery
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1299
+#EXTINF:-1,Ex-Yu: Pink Sci-Fi&Fantasy
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1300
+#EXTINF:-1,Ex-Yu:  Pink Thriller
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1301
+#EXTINF:-1,Ex-Yu: Epic Drama
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/39858
+#EXTINF:-1,Ex-Yu: TLC
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1279
+#EXTINF:-1,Ex-Yu: NOVA
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1200
+#EXTINF:-1,Ex-Yu:  FOX
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1201
+#EXTINF:-1,Ex-Yu: FOX Life
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1202
+#EXTINF:-1,Ex-Yu: FOX Crime
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1203
+#EXTINF:-1,Ex-Yu: FOX Movies
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1204
+#EXTINF:-1,Ex-Yu: HBO
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1161
+#EXTINF:-1,Ex-Yu: HBO 2
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1162
+#EXTINF:-1,Ex-Yu: HBO 3
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1163
+#EXTINF:-1,Ex-Yu: Kino TV
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1164
+#EXTINF:-1,Ex-Yu: Cinestar TV
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1165
+#EXTINF:-1,Ex-Yu: Cinemania
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/38580
+#EXTINF:-1,Ex-Yu: Cinestar TV 2 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/36502
+#EXTINF:-1,Ex-Yu: CineStar TV Comedy 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/39055
+#EXTINF:-1,Ex-Yu: Cinestar Premiere 1
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1166
+#EXTINF:-1,Ex-Yu: Cinestar Premiere 2
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1167
+#EXTINF:-1,Ex-Yu: Cinestar Action
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1168
+#EXTINF:-1,Ex-Yu: Cinestar Fantasy
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1169
+
+#EXTINF:-1,Ex-Yu: M1 Family
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/36515
+#EXTINF:-1,Ex-Yu: TV 1000
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1170
+#EXTINF:-1,Ex-Yu: AXN
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1171
+#EXTINF:-1,Ex-Yu: AXN Spin
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1172
+#EXTINF:-1,Ex-Yu: Klasik TV
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1173
+#EXTINF:-1,Ex-Yu: Cinemax 1
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1175
+#EXTINF:-1,Ex-Yu: Cinemax 2
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1176
+#EXTINF:-1,Ex-Yu: Filmbox Extra
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1179
+#EXTINF:-1,Ex-Yu: Filmbox Arthouse
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1180
+#EXTINF:-1,Ex-Yu: Cineplex
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1181
+#EXTINF:-1,Ex-Yu: National Geographic
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1136
+#EXTINF:-1,Ex-Yu: National Geographic Wild
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1137
+#EXTINF:-1,Ex-Yu: History Channel
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1138
+#EXTINF:-1,Ex-Yu: ID Xtra
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1139
+#EXTINF:-1,Ex-Yu: Crime & Investigation
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1140
+
+#EXTINF:-1,Ex-Yu: Travel Channel
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1159
+#EXTINF:-1,Ex-Yu: RTL 
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/1194
 
 
-#EXTINF:-1,  HBO HD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1276
-#EXTINF:-1,  HBO 2 HD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1277
-#EXTINF:-1,  HBO 3
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1278
-#EXTINF:-1,  EPIC DRAMA HD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/13217
-#EXTINF:-1,  RTS TV
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/988
-#EXTINF:-1,  TV 1000
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1287
-#EXTINF:-1,  CINESTAR TV1
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1290
-#EXTINF:-1,  CINESTAR ACTION TV
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1291
-#EXTINF:-1,  CINESTAR FANTASY
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1297
-#EXTINF:-1,  CINESTAR PREMIERE 1
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1280
-#EXTINF:-1,  CINESTAR PREMIERE 2
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1281
-#EXTINF:-1,  CINEMAX 1
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/19304
-#EXTINF:-1,  CINEMAX 2
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1289
-#EXTINF:-1,  M1 FILM
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/19407
-#EXTINF:-1,  M1 GOLD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/19407
-#EXTINF:-1,  AXN ADRIA
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1286
-#EXTINF:-1,  KINO TV
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/4375
-#EXTINF:-1,  FOX
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1282
-#EXTINF:-1,  FOX LIFE
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1283
-#EXTINF:-1,  FOX CRIME
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1285
-#EXTINF:-1,  FOX MOVIES
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1284
+
 
 
 #EXTINF:-1,|UA| UA TV
@@ -163,22 +179,7 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1324
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/17682
  
 
-
-
-#EXTINF:-1,(HR) HRT 1 HD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/10701
-#EXTINF:-1,(HR) HRT 2 HD
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/10699
-#EXTINF:-1,(HR) RTL HR
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/10689
-#EXTINF:-1,(HR) RTL 2
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/10688
-#EXTINF:-1,(HR) RTL CRIME
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/10687
-#EXTINF:-1,(HR) RTL LIVING
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/10686
-#EXTINF:-1,(HR) RTL PASSION
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/10685
+ 
 
 
 
