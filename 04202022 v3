@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1,###25/januarE###
+#EXTINF:-1,###a 25/januarE###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
-#EXTINF:-1,  PRVA HD
-http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=prva
+
+
 #EXTINF:-1 tvg-id="PRVA" tvg-name="PRVA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/prva-srpska-logo.png",Prva
 http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=prva
+#EXTINF:-1 tvg-id="PRVAPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/logo/PrvaPlus_SRB.png" group-title="Srbija",Prva Plus
+http://5.254.16.186/K1/mono.m3u8
 #EXTINF:-1,  PRVA PLUS
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/1001
 #EXTINF:-1,  PRVA WORLD
