@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1,###Alternativa 1###
+#EXTINF:-1,###RADNA VERZIJA###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
 
+#EXTINF:-1 tvg-id="" tvg-name="SER: Eurosport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.tr.png" group-title="Serbien - SER",SER: Eurosport 1 HD
+http://dunyaiptv.de:80/kLbWNZDHm3/CGcttIYsyXE/162309
  
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
 http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/1460
