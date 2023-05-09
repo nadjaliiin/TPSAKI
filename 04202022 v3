@@ -2,18 +2,9 @@
 #EXTINF:-1,###RADNA VERZIJA###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
 
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3a RS" tvg-logo="https://picon-13398.kxcdn.com/rts3exyu.jpg" group-title="Live: ex-Yu Countries",RTS 3 RS
-http://clientportal.link:80/Psd9rF676/ekyJSh507/13816
 
-
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3b RS" tvg-logo="https://picon-13398.kxcdn.com/rts3exyu.jpg" group-title="Live: ex-Yu Countries",RTS 3 RS
-http://admin.vlagor-iptv.com:80/live.ts?channelId=522&deviceUser=darijan&devicePass=UH87ZuXMmehEOB12X9xM&uid=2764
-
-
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3c RS" tvg-logo="https://picon-13398.kxcdn.com/rts3exyu.jpg" group-title="Live: ex-Yu Countries",RTS 3 RS
-http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts3
-
- 
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6315
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SER: Eurosport 1 HD" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.tr.png" group-title="Serbien - SER",SER: Eurosport 1 HD
