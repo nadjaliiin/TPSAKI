@@ -8,6 +8,26 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6315
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6278
+
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6485
+#EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="http://smartntv.pro/logokanali/film/m1filmgold.png" group-title="Film & Serije",M1 Film Gold
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/9640
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://smartntv.pro/logokanali/film/klasiktv.png" group-title="Film & Serije",KLASIK TV
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6487
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV " tvg-logo="http://smartntv.pro/logokanali/film/kinotv.png" group-title="Film & Serije",Kino TV 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6488
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA TV" tvg-logo="http://smartntv.pro/logokanali/film/divatv.png" group-title="Film & Serije",DIVA TV
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6489
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama " tvg-logo="http://smartntv.pro/logokanali/film/epicdrama.png" group-title="Film & Serije",Epic Drama 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/9638
+
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13470
+
+
+
+
  
  
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
