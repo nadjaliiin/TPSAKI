@@ -2,6 +2,15 @@
 #EXTINF:-1,###RADNA VERZIJA###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
 
+ 
+#EXTINF:-1 tvg-id="B92.rs stari" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
+http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17262
+
+#EXTINF:-1 tvg-id="b92 NOVO" tvg-name="B92 " tvg-logo="http://smartntv.pro/logokanali/srb/b92.png" group-title="Srbija",B92 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6330
+
+
+
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6315
