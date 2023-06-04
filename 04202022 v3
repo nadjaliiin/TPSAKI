@@ -11,6 +11,12 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6315
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6278
 
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt2.png" group-title="Hrvatska",HRT 2 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6280
+
+
+
+
 #EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6485
 
@@ -21,9 +27,7 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/9640
 #EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama " tvg-logo="http://smartntv.pro/logokanali/film/epicdrama.png" group-title="Film & Serije",Epic Drama 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/9638
 
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13470
-
+ 
 
 
 
@@ -140,28 +144,13 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/70158
  
 
  
- 
-
-  
-#EXTINF:-1,|UA| UA TV
-http://iptvtree.net:8080/ace2524d/15a571c413/163060
 
 
 #EXTINF:-1,|UA| ua tv
 http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/247833
 
-
-#EXTINF:-1,UKR: Надия/Новый канал HD
-http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/247696
-
-
-#EXTINF:-1,|RU| TV1000 World Kino
-http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/243419
-
-
-#EXTINF:-1,|RU| Kino Hit
-http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/243490
-
+ 
+ 
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.rs" tvg-name="Discovery Channel RS" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: ex-Yu Countries",Discovery Channel RS
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13469
