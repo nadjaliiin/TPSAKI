@@ -15,6 +15,8 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6278
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6280
 
 
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13470
 
 
 #EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
@@ -122,8 +124,7 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6484
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6485
 #EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="http://smartntv.pro/logokanali/film/m1filmgold.png" group-title="Film & Serije",M1 Film Gold
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/9640
-#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-logo="http://smartntv.pro/logokanali/film/klasiktv.png" group-title="Film & Serije",KLASIK TV
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6487
+
 #EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV " tvg-logo="http://smartntv.pro/logokanali/film/kinotv.png" group-title="Film & Serije",Kino TV 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6488
 #EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA TV" tvg-logo="http://smartntv.pro/logokanali/film/divatv.png" group-title="Film & Serije",DIVA TV
@@ -138,8 +139,7 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6490
 #EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR " tvg-logo="http://smartntv.pro/logokanali/srb/superstartv.png" group-title="Srbija",SUPERSTAR 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6334
 
-#EXTINF:-1 tvg-id="star-tv" tvg-name="Superstar 2 " tvg-logo="http://smartntv.pro/logokanali/srb/superstar2.png" group-title="Srbija",Superstar 2 
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/70158
+ 
 
  
 
@@ -170,11 +170,9 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6501
 #EXTINF:-1 tvg-id="NatGeoWild.rs" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: ex-Yu Countries",National Geographic Wild RS
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6502
 
-#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="Comedy Central" tvg-logo="http://smartntv.pro/logokanali/docu/comedycentral.png" group-title="Docu & Style",Comedy Central
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6505
 
 #EXTINF:-1 tvg-id="TravelChannel.hr" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: ex-Yu Countries",Travel Channel RS
-http://cloudcdn.tk:80/ShkelqimGega54/shFumh2005/17865
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6517
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13470
@@ -182,19 +180,12 @@ http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/13470
 #EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment " tvg-logo="http://smartntv.pro/logokanali/docu/enterta.png" group-title="Docu & Style",E! Entertainment 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6515
 
-#EXTINF:-1 tvg-id="doku-tv" tvg-name="DokuTV " tvg-logo="http://smartntv.pro/logokanali/docu/docutv.png" group-title="Docu & Style",DokuTV 
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6499
-#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox " tvg-logo="http://smartntv.pro/logokanali/docu/docubox.png" group-title="Docu & Style",DocuBox 
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6500
-
  #EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="http://smartntv.pro/logokanali/docu/cbsreality.png" group-title="Docu & Style",CBS Reality
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6508
 
-#EXTINF:-1 tvg-id="comedy-central-extra" tvg-name="Comedy Central" tvg-logo="http://smartntv.pro/logokanali/docu/comedycentral.png" group-title="Docu & Style",Comedy Central
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6505
-
 #EXTINF:-1 tvg-id="doku-tv" tvg-name="DokuTV " tvg-logo="http://smartntv.pro/logokanali/docu/docutv.png" group-title="Docu & Style",DokuTV 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6499
+
 #EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox " tvg-logo="http://smartntv.pro/logokanali/docu/docubox.png" group-title="Docu & Style",DocuBox 
 http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6500
 
