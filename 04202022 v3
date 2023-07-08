@@ -2,7 +2,10 @@
 #EXTINF:-1,###RADNA VERZIJA update 4/06/23/###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
 
-
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 " tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1 
+http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/39647.ts
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 - Rezerva" tvg-logo="http://smartntv.pro/logokanali/srb/rts1.png" group-title="Srbija",RTS 1 - Rezerva
+http://smartntv.pro:25461/888maharinho/uAf9v79EhK/6312
 
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
