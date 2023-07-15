@@ -2,10 +2,14 @@
 #EXTINF:-1,###RADNA VERZIJA update 4/06/23/###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
 
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1bbbb " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
+#EXTINF:-1 tvg-id="htv1" tvg-name="a" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
 hthttp://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6278
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1bbbb " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
-hthttp://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6279
+#EXTINF:-1 tvg-id="htv1" tvg-name="dd" tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6279
+#EXTINF:-1 tvg-id="htv1" tvg-name="ddd 1bbbb " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6279
+
+
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 a" tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/13369
