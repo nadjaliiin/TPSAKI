@@ -11,8 +11,13 @@ http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/504.ts
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1a " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
 http://cmsott.com:8080/Ramizahmetibsj/QkBumXynDNW3/6315
 
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1b " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
-http://185.53.88.26:80/live/Spasadima12/Dimaspasa12/6315.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1bbbb " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
+hthttp://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6278
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://smartntv.pro:25461/888maharinho/uAf9v79EhK/6315
