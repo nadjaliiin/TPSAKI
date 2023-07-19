@@ -41,6 +41,9 @@ http://45.12.1.14:80/uw3QLJ7j9H610/2hEWyB169/1460
 #EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus HD RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="Live: ex-Yu Countries",Prva Plus HD RS
 http://45.12.1.14:80/uw3QLJ7j9H610/2hEWyB169/1459
 
+#EXTINF:-1 tvg-id="prva-world" tvg-name="Prva World 2" tvg-logo="http://smartntv.pro/logokanali/srb/prvaworld.png" group-title="Srbija",Prva World 
+http://smartntv.pro:25461/edina_delic/7xDwq2vWBnyp/6324
+
 #EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
 http://45.12.1.14:80/uw3QLJ7j9H610/2hEWyB169/13798
 
