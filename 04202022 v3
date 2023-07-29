@@ -54,7 +54,10 @@ http://cloudcdn.city:80/0521706512/3X6mgl199/3197
 
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="Live: ex-Yu Countries",Nova S FHD RS
 http://cloudcdn.city:80/0521706512/3X6mgl199/19166
- 
+
+#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="Live: ex-Yu Countries",Pink Romance RS
+http://45.12.1.14:80/DraganKostov/tff78a3065/3200 
+
 #EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="Live: ex-Yu Countries",Pink Romance RS
 http://cloudcdn.city:80/0521706512/3X6mgl199/3200
 
