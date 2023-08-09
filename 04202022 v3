@@ -2,26 +2,23 @@
 #EXTINF:-1,###22/07/23/###
 http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 
-#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
-http://45.12.1.14:80/RsPOJZ915/QeAvXI933/17262
-
  
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/29493
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/29493
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/29435
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/29435
 
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt2.png" group-title="Hrvatska",HRT 2 
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/29434
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/29434
 
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/29510
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/29510
 
 
 #EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/47377
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/47377
 
 #EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="http://smartntv.pro/logokanali/film/m1filmgold.png" group-title="Film & Serije",M1 Film Gold
 http://cloudcdn.city:80/0521706512/3X6mgl199/3191
@@ -35,13 +32,13 @@ http://xplatinmedia.com:8080/Mehdi_teleg/1837JSURhdyg092832RDlHQOaCqRAl5r83juBsg
  
  
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/55933
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/55933
 
 #EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus HD RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="Live: ex-Yu Countries",Prva Plus HD RS
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/55932
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/55932
 
 #EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/55934
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/55934
 
 #EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink HD RS
 http://cloudcdn.city:80/0521706512/3X6mgl199/71021
@@ -228,8 +225,7 @@ http://45.12.1.14:80/dvHR8wX321/W7GKTp785/17262
 http://45.12.1.14:80/RAPHH3B7pB46/Cvv8d801/17262
 
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/29430
+http://45.12.1.14:80/RsPOJZ915/QeAvXI933/29430
 
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
 http://cloudcdn.city:80/0521706512/3X6mgl199/17262
-
