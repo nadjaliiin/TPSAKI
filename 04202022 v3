@@ -5,28 +5,7 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
-
-#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/13798
-
-
-#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/182
-
-
-#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://aca3b.tk:8080/dosthasan/D6eTupzmHP/1003
-
-
-#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://tv.adko.iptv.uno:80/Mikkossyster/REKlBM7170/13798
-
-
-
-#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://tv.adko.iptv.uno:80/34snqp89342/5l54l8807/13798
-
-
+ 
 
 
 
@@ -60,7 +39,7 @@ http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/1460
 http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/1459
 
 #EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/13798
+http://aca3b.tk:8080/dosthasan/D6eTupzmHP/1003
 
 #EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink HD RS
 http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/71021
