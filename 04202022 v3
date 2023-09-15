@@ -152,14 +152,22 @@ http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/78228
 
  
 
- 
-
-
-#EXTINF:-1,|UA| ua tv
-http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/247833
-
-#EXTINF:-1,|UA| ua tv
-https://youtu.be/R5vvrb1YsqU
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ UKRAINE ✦●✦" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cdn.countryflags.com/thumbs/ukraine/flag-round-250.png" group-title="UKRAINE" ,✦●✦ UKRAINE ✦●✦
+http://client.nodomain.vip:80/live.ts?channelId=2311&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="BIGUDI UA" tvg-link="" tvg-logo="https://bigudi.tv/img/manifest-icons/icon-152x152.png" group-title="UKRAINE" ,BIGUDI UA
+http://client.nodomain.vip:80/live.ts?channelId=2313&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="ICTV UA" tvg-link="" tvg-logo="https://bptv.com.ua/wp-content/uploads/megogotv-channels/ictv-hd.jpg" group-title="UKRAINE" ,ICTV UA
+http://client.nodomain.vip:80/live.ts?channelId=2314&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="INTER UA" tvg-link="" tvg-logo="https://inter.ua/assets/img/logo.svg" group-title="UKRAINE" ,INTER UA
+http://client.nodomain.vip:80/live.ts?channelId=2312&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="TELEKANAL STB UA" tvg-link="" tvg-logo="https://www.stb.ua/wp-content/themes/STB_New/favicon.ico" group-title="UKRAINE" ,TELEKANAL STB UA
+http://client.nodomain.vip:80/live.ts?channelId=2315&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="UKRAINE 1 UA" tvg-link="" tvg-logo="https://ideaventures.pl/wp-content/uploads/2018/12/UKR-1-logo-pic.png" group-title="UKRAINE" ,UKRAINE 1 UA
+http://client.nodomain.vip:80/live.ts?channelId=2317&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="UKRAINE 24 UA" tvg-link="" tvg-logo="https://ukraine.mom-rsf.org/uploads/tx_lfrogmom/media/430.png" group-title="UKRAINE" ,UKRAINE 24 UA
+http://client.nodomain.vip:80/live.ts?channelId=2316&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
+#EXTINF:-1 tvg-id="" tvg-name="FREEDOM UA" tvg-link="" tvg-logo="https://ortus-global.com/files/253/ua-tv.png" group-title="UKRAINE" ,FREEDOM UA
+http://client.nodomain.vip:80/live.ts?channelId=2318&uid=51265&deviceUser=IvanPiric&devicePass=VZaH9WnFbQ
 
  
  
