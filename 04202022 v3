@@ -8,18 +8,6 @@ https://live.akous.gr/akous80s
  
 
 
-
- 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/4024
 
@@ -32,7 +20,6 @@ http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/202
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
 http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/223
-m1 
 
 #EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
 http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/227
