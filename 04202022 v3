@@ -174,15 +174,18 @@ http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/10675
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="National Geographic RS" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: ex-Yu Countries",National Geographic RS
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/208
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4177
 
 
 #EXTINF:-1 tvg-id="NatGeoWild.rs" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: ex-Yu Countries",National Geographic Wild RS
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/209
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4178
 
-
-#EXTINF:-1 tvg-id="TravelChannel.hr" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: ex-Yu Countries",Travel Channel RS
-http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/17865
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FilmBox Arthouse" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/66dd4d8b1bc4d9e2afc00eff7fb21d21.png" group-title="EX-YU",EX-YU: FilmBox Arthouse
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/283201
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FilmBox Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d461a3b552b34cb59d6580488e8a681c.png" group-title="EX-YU",EX-YU: FilmBox Extra
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/10684
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FilmBox Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/576da488b19c5d83d0fe43f1dc4877cd.png" group-title="EX-YU",EX-YU: FilmBox Stars
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/265784
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
 http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4208
