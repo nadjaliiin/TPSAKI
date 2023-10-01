@@ -4,8 +4,18 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
- 
- 
+
+#EXTINF:-1 tvg-id="B92.rs stari" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
+http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/2345
+
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4133
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
+http://pops.top:8080/t299pS49dXZN/S8CPZRSRPGEQ/4543
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
+http://51.15.26.200:8000/live?channelId=654&uid=1204&deviceMac=00:1A:79:63:9C:B3
+
+
 
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
