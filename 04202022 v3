@@ -5,15 +5,7 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
-#EXTINF:-1 tvg-id="b92.rs" tvg-name="Ex-Yu:  B92" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b92_tv.jpg" group-title="★ SRPSKI KANALI",Ex-Yu:  B92
-http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/1271
 
-http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4039
-#EXTINF:-1 tvg-id="" tvg-name="RS: B92" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a55c689d8f4e06d43309125a4ff55d8d.png" group-title="Serbia ➾ Kids",RS: B92
-http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4133
-
-#EXTINF:-1 tvg-id="B92 ex-Yu" tvg-name="B 92 ex-Yu" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/b92_logo_2020.png" group-title="Srbija-Serbia",B 92 ex-Yu
-http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/2345
 
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/e/ec/O2.TV_logo.png?20190922165539" group-title="Srbija",B92
 http://neon-tv.online:82/live?cId=654&uid=5454&deviceMac=00:1A:79:10:EF:06
@@ -21,6 +13,15 @@ http://neon-tv.online:82/live?cId=654&uid=5454&deviceMac=00:1A:79:10:EF:06
 #EXTINF:-1 tvg-id="o2tv" tvg-name="O2TV" tvg-logo="http://nextgen-iptv.com/Logos/srb/b92_rs_tv.png" group-title="Srbija",O2TV
 http://mana.etnoselo.tv:80/GgvVQ9v62p/GvgYQGVmHD/1306.ts
 
+
+#EXTINF:-1 tvg-id="b92.sr" tvg-link="http://tvprofil.net/xmltv/data/b92.sr/weekly_b92.sr_tvprofil.net.xml" tvg-name="b92" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/b92_tv.jpg" group-title="Serbian",b92
+http://admin.vlagor-iptv.com:80/live.ts?channelId=90&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
+
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: O2 TV-B92 (SRB)" tvg-logo="" group-title="Ex-Yu Channels",Ex-Yu: O2 TV-B92 (SRB)
+http://1.memoiptv.eu:7000/SinaniIPTV/SinaniIPTVExchange/22988
+
+#EXTINF:-1 tvg-id="b92.rs" tvg-name="Ex-Yu:  B92" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b92_tv.jpg" group-title="★ SRPSKI KANALI",Ex-Yu:  B92
+http://localiptv.site:85/UniversalIptvDisc/Qsfrorv45JDIJSjseZdhx/1271
 
 
 
