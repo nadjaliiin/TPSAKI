@@ -5,7 +5,28 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
- 
+#EXTINF:-1 tvg-id="B92x.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4133
+
+#EXTINF:-1 tvg-id="B9x2.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
+http://aca3b.tk:8080/dosthasan/D6eTupzmHP/999
+
+#EXTINF:-1 tvg-id="B9x2.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
+http://restream.geniptv.com:8080/TomasArana_always/OJBHdsadsa112/2345
+
+#EXTINF:-1 tvg-id="b92.sr" tvg-link="http://tvprofil.net/xmltv/data/b92.sr/weekly_b92.sr_tvprofil.net.xml" tvg-name="b92" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/b92_tv.jpg" group-title="Serbian",b92
+http://admin.vlagor-iptv.com:80/live.ts?channelId=90&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
+
+#EXTINF:0 tvg-id="B92.rs" group-title="Channels",B92 TV
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/8022
+#EXTINF:0 tvg-id="ext" group-title="Channels",B92 TV HD
+http://tv.nova-iptv.com:80/Railic_Njegos/LuGgRFYnaC/594
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: O2 TV-B92 (SRB)" tvg-logo="" group-title="Ex-Yu Channels",Ex-Yu: O2 TV-B92 (SRB)
+http://1.memoiptv.eu:7000/SinaniIPTV/SinaniIPTVExchange/22988
+
+
 
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
