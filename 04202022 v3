@@ -6,7 +6,11 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 https://live.akous.gr/akous80s
 
 
+#EXTINF:-1 tvg-id="b92" tvg-name="B92 " tvg-logo="http://smartntv.pro/logokanali/srb/b92.png" group-title="Srbija",B92 
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6330
 
+#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4133
 
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
