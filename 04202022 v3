@@ -441,5 +441,21 @@ http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6503
 #EXTINF:-1 tvg-id="HistoryChannel2.rs" tvg-name="H2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Live: ex-Yu Countries",H2 FHD RS
 http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6504
 
- 
+ #EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f2162c891092e2ac6253ca3df64b0e10.png" group-title="EX-YU",EX-YU: Sport Klub 2
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/15572
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/1b4e75d0825b018a4be6fc2de7e0b4e6.png" group-title="EX-YU",EX-YU: Sport Klub 3
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/282759
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/45eafebb73a312441eddf47c91aa7784.jpg" group-title="EX-YU",EX-YU: Sport Klub 4
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/281896
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/bb3f900e11e633eda727a7b3a4961380.jpg" group-title="EX-YU",EX-YU: Sport Klub 5
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3470
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Sport Klub 7
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146299
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Sport Klub 8
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/54987
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2023-08/913be3dd5506bb664db6b276ae3131be.png" group-title="EX-YU",EX-YU: Sport Klub Golf
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/299649
+
+#EXTINF:-1 tvg-id="planetsport2.hr" tvg-name="HR: Sport Klub 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5a85ec354802e6b85738a13c83d8fb3f.png" group-title="Croatia ➾ Sports",HR: Sport Klub 1
+http://iptvaruba.com:8080/ksportgazi/So6G66YmQs1Vn8n5/3473
 
