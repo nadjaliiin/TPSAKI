@@ -6,10 +6,6 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 https://live.akous.gr/akous80s
 
 
-#EXTM3U
-#EXTINF:-1,###ANDJELKO REZERVE VERZIJA update 20 10/23/###
-http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn/
-
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6315
 
@@ -34,11 +30,6 @@ http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/9640
 #EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama " tvg-logo="http://smartntv.pro/logokanali/film/epicdrama.png" group-title="Film & Serije",Epic Drama 
 http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/9638
 
- 
-
-
-
- 
  
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
 http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6320
