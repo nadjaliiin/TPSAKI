@@ -6,6 +6,22 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 https://live.akous.gr/akous80s
 
 
+#EXTINF:-1 tvg-id="pink" tvg-name="Pink HD" tvg-logo="http://repo.ottshow.net/pikoni/pink/pinkhd.gif" group-title="Srbija",Pink HD
+http://alternator.pro:80/live/Rozder276/Rozder27678/68555.ts
+
+
+#EXTINF:-1 tvg-id="pink" tvg-name="Pink Sr" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=dpteam1wxy64Qhu9MT7R5V" tvg-logo="http://diaspromedia.tv:8383/images/PinkMedia/PINK-logo.jpg" group-title="PINK MEDIA" ,Pink Sr
+http://diaspromedia.tv:80/live.ts?channelId=36&uid=25508&deviceUser=robert10.sams&devicePass=aCGtMXPPyQ
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="::::: PINK :::::" tvg-logo="http://balkan-x.net:80/images/6cde92b0703ccb90058004808cbaed87.jpg" group-title="PINK",::::: PINK :::::
+http://balkan-x.net:80/live/EssoBosnacaffe/NpGXnNmDc3/349.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6315
 
