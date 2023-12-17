@@ -5,10 +5,6 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
-#EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
-https://live.akous.gr/akous80s
-
- 
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://alternator.pro:80/live/Rozder276/Rozder27678/1529.ts
