@@ -5,139 +5,143 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
+
+
+#EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
+https://live.akous.gr/akous80s
+
+
+#EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
+https://live.akous.gr/akous80s
+
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
-http://alternator.pro:80/live/Rozder276/Rozder27678/1529
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6315
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
-http://alternator.pro:80/live/Rozder276/Rozder27678/30473
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6278
 
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt2.png" group-title="Hrvatska",HRT 2 
-http://alternator.pro:80/live/Rozder276/Rozder27678/30474
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6280
 
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
-http://alternator.pro:80/live/Rozder276/Rozder27678/74
-
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/13470
 
 
 #EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
-http://alternator.pro:80/live/Rozder276/Rozder27678/2494
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6485
 
 #EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="http://smartntv.pro/logokanali/film/m1filmgold.png" group-title="Film & Serije",M1 Film Gold
-http://alternator.pro:80/live/Rozder276/Rozder27678/1351
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/9640
  
  
 #EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama " tvg-logo="http://smartntv.pro/logokanali/film/epicdrama.png" group-title="Film & Serije",Epic Drama 
-http://alternator.pro:80/live/Rozder276/Rozder27678/24362
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/9638
 
  
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/25974
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6320
 
 #EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus HD RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="Live: ex-Yu Countries",Prva Plus HD RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/47
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6322
 
 #EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/2828
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6324
 
 #EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink HD RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/68555
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6419
  
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/39
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6330
 
 #EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="Prva Kick RS" tvg-logo="https://picon-13398.kxcdn.com/prvakickrs.jpg" group-title="Live: ex-Yu Countries",Prva Kick RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/4739
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6325
 
 #EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="Live: ex-Yu Countries",N1 HD RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/3775
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/13438
 
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="Live: ex-Yu Countries",Nova S FHD RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/29409
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/13448
  
 #EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="Live: ex-Yu Countries",Pink Romance RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/2796
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6434
 
 #EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="Pink Plus RS" tvg-logo="https://picon-13398.kxcdn.com/pinkplusexyu.jpg" group-title="Live: ex-Yu Countries",Pink Plus RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/35958
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6426
 
 #EXTINF:-1 tvg-id="PinkFamily.rs" tvg-name="Pink Family RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfamilyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Family RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/614
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6435
 
 #EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="Pink Premium RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpremiumexyu.jpg" group-title="Live: ex-Yu Countries",Pink Premium RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/77668
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6445
 
 #EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="Pink Movies RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmoviesexyu.jpg" group-title="Live: ex-Yu Countries",Pink Movies RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/1143
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6432
 
 #EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="Pink Action RS" tvg-logo="https://picon-13398.kxcdn.com/pinkactionexyu.jpg" group-title="Live: ex-Yu Countries",Pink Action RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/150
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6425
 
 #EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="Pink Comedy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcomedyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Comedy RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/42
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6429
 
 #EXTINF:-1 tvg-id="" tvg-name=" Movies " tvg-logo="http://smartntv.pro/logokanali/film/movies.png" group-title="Film & Serije", Movies 
-http://alternator.pro:80/live/Rozder276/Rozder27678/1143
-
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6461
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://smartntv.pro/logokanali/film/amc.png" group-title="Film & Serije",AMC
-http://alternator.pro:80/live/Rozder276/Rozder27678/9109
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6462
 #EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="http://smartntv.pro/logokanali/film/axnspin.png" group-title="Film & Serije",AXN Spin
-http://alternator.pro:80/live/Rozder276/Rozder27678/69009
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6464
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria " tvg-logo="http://smartntv.pro/logokanali/film/hbo.png" group-title="Film & Serije",HBO Adria 
-http://alternator.pro:80/live/Rozder276/Rozder27678/44
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6465
 #EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 " tvg-logo="http://smartntv.pro/logokanali/film/hbo2.png" group-title="Film & Serije",HBO 2 
-http://alternator.pro:80/live/Rozder276/Rozder27678/72
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6466
 #EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 " tvg-logo="http://smartntv.pro/logokanali/film/hbo3.png" group-title="Film & Serije",HBO 3 
-http://alternator.pro:80/live/Rozder276/Rozder27678/1555
-
-
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6467
 #EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1 " tvg-logo="http://smartntv.pro/logokanali/film/cinemax1.png" group-title="Film & Serije",Cinemax 1 
-http://alternator.pro:80/live/Rozder276/Rozder27678/70
- 
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6469
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1  - Rezerva" tvg-logo="http://smartntv.pro/logokanali/film/cinemax1.png" group-title="Film & Serije",Cinemax 1  - Rezerva
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6470
 #EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2 " tvg-logo="http://smartntv.pro/logokanali/film/cinemax2.png" group-title="Film & Serije",Cinemax 2 
-http://alternator.pro:80/live/Rozder276/Rozder27678/126
- 
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6471
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2  - Rezerva" tvg-logo="http://smartntv.pro/logokanali/film/cinemax2.png" group-title="Film & Serije",Cinemax 2  - Rezerva
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6472
 #EXTINF:-1 tvg-id="cinestar-tv" tvg-name="Cinestar TV 1 " tvg-logo="http://smartntv.pro/logokanali/film/cinestartv1.png" group-title="Film & Serije",Cinestar TV 1 
-http://alternator.pro:80/live/Rozder276/Rozder27678/3851
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6473
 #EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="http://smartntv.pro/logokanali/film/cinestaraction.png" group-title="Film & Serije",Cinestar Action
-http://alternator.pro:80/live/Rozder276/Rozder27678/2685
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6474
 #EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="Cinestar Fantasy " tvg-logo="http://smartntv.pro/logokanali/film/cinestarfantasy.png" group-title="Film & Serije",Cinestar Fantasy 
-http://alternator.pro:80/live/Rozder276/Rozder27678/10444
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6475
 #EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="Cinestar Premiere 1 " tvg-logo="http://smartntv.pro/logokanali/film/cinestarpremiere1.png" group-title="Film & Serije",Cinestar Premiere 1 
-http://alternator.pro:80/live/Rozder276/Rozder27678/36
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6476
 #EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="Cinestar Premiere 2 " tvg-logo="http://smartntv.pro/logokanali/film/cinestarpremiere2.png" group-title="Film & Serije",Cinestar Premiere 2 
-http://alternator.pro:80/live/Rozder276/Rozder27678/37
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6477
 #EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="Cinestar Comedy" tvg-logo="http://smartntv.pro/logokanali/film/cinestarcomedy.png" group-title="Film & Serije",Cinestar Comedy
-http://alternator.pro:80/live/Rozder276/Rozder27678/30492
-
-
-
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/14010
 #EXTINF:-1 tvg-id="fox" tvg-name="Fox TV " tvg-logo="http://smartntv.pro/logokanali/film/foxtv.png" group-title="Film & Serije",Fox TV 
-http://alternator.pro:80/live/Rozder276/Rozder27678/178
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6481
 #EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies " tvg-logo="http://smartntv.pro/logokanali/film/foxmovies.png" group-title="Film & Serije",Fox Movies 
-http://alternator.pro:80/live/Rozder276/Rozder27678/25990
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6482
 #EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime " tvg-logo="http://smartntv.pro/logokanali/film/foxcrime.png" group-title="Film & Serije",Fox Crime 
-http://alternator.pro:80/live/Rozder276/Rozder27678/1553
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6483
 #EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life " tvg-logo="http://smartntv.pro/logokanali/film/foxlife.png" group-title="Film & Serije",Fox Life 
-http://alternator.pro:80/live/Rozder276/Rozder27678/1378
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6484
 #EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
-http://alternator.pro:80/live/Rozder276/Rozder27678/2494
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6485
 #EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="http://smartntv.pro/logokanali/film/m1filmgold.png" group-title="Film & Serije",M1 Film Gold
-http://alternator.pro:80/live/Rozder276/Rozder27678/1351
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/9640
 
 #EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV " tvg-logo="http://smartntv.pro/logokanali/film/kinotv.png" group-title="Film & Serije",Kino TV 
-http://alternator.pro:80/live/Rozder276/Rozder27678/4223
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6488
 #EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA TV" tvg-logo="http://smartntv.pro/logokanali/film/divatv.png" group-title="Film & Serije",DIVA TV
-http://alternator.pro:80/live/Rozder276/Rozder27678/4224
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6489
 #EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama " tvg-logo="http://smartntv.pro/logokanali/film/epicdrama.png" group-title="Film & Serije",Epic Drama 
-http://alternator.pro:80/live/Rozder276/Rozder27678/24362
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/9638
 #EXTINF:-1 tvg-id="cinemania" tvg-name="Cineman" tvg-logo="http://smartntv.pro/logokanali/film/cinemania.png" group-title="Film & Serije",Cineman
-http://alternator.pro:80/live/Rozder276/Rozder27678/357
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/13450
 #EXTINF:-1 tvg-id="docubox-hd" tvg-name="Docu & Style" tvg-logo="http://smartntv.pro/logokanali/docu/docubox.png" group-title="Docu & Style",Docu & Style
-http://alternator.pro:80/live/Rozder276/Rozder27678/68
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6490
 
 #EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR " tvg-logo="http://smartntv.pro/logokanali/srb/superstartv.png" group-title="Srbija",SUPERSTAR 
-http://alternator.pro:80/live/Rozder276/Rozder27678/3985
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6334
 
  
 
@@ -153,47 +157,48 @@ http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/247833
  
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.rs" tvg-name="Discovery Channel RS" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: ex-Yu Countries",Discovery Channel RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/68
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/13469
 
 
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science " tvg-logo="http://smartntv.pro/logokanali/docu/discoveryscience.png" group-title="Docu & Style",Discovery Science 
-http://alternator.pro:80/live/Rozder276/Rozder27678/25984
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6496
 
 #EXTINF:-1 tvg-id="DiscoveryIDXtra.rs" tvg-name="DTX HR" tvg-logo="https://picon-13398.kxcdn.com/dtx.jpg" group-title="Live: ex-Yu Countries",DTX HR
-http://alternator.pro:80/live/Rozder276/Rozder27678/25980
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/13472
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="National Geographic RS" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: ex-Yu Countries",National Geographic RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/25978
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6501
 
 
 #EXTINF:-1 tvg-id="NatGeoWild.rs" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: ex-Yu Countries",National Geographic Wild RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/25977
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6502
 
 
 #EXTINF:-1 tvg-id="TravelChannel.hr" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: ex-Yu Countries",Travel Channel RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/181
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6517
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
-http://alternator.pro:80/live/Rozder276/Rozder27678/74
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/13470
 
 #EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment " tvg-logo="http://smartntv.pro/logokanali/docu/enterta.png" group-title="Docu & Style",E! Entertainment 
-http://alternator.pro:80/live/Rozder276/Rozder27678/2572
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6515
 
  #EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="http://smartntv.pro/logokanali/docu/cbsreality.png" group-title="Docu & Style",CBS Reality
-http://alternator.pro:80/live/Rozder276/Rozder27678/2836
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6508
 
 #EXTINF:-1 tvg-id="doku-tv" tvg-name="DokuTV " tvg-logo="http://smartntv.pro/logokanali/docu/docutv.png" group-title="Docu & Style",DokuTV 
-http://alternator.pro:80/live/Rozder276/Rozder27678/31853
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6499
 
-#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku",24 Kitchen
-http://alternator.pro:80/live/Rozder276/Rozder27678/25985
-#EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku",E! Entertainment
-http://alternator.pro:80/live/Rozder276/Rozder27678/2572
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox " tvg-logo="http://smartntv.pro/logokanali/docu/docubox.png" group-title="Docu & Style",DocuBox 
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6500
+
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://smartntv.pro/logokanali/docu/davinchilearn.png" group-title="Docu & Style",Da Vinci Learning
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6492
 
 #EXTINF:-1 tvg-id="HistoryChannel.hr" tvg-name="History HR" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: ex-Yu Countries",History HR
-http://alternator.pro:80/live/Rozder276/Rozder27678/2574
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6503
 
 
 #EXTINF:-1 tvg-id="HistoryChannel2.rs" tvg-name="H2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Live: ex-Yu Countries",H2 FHD RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/25981
+http://smartntv.pro:25461/dejicr@/NrYB3QXg5wFw/6504
