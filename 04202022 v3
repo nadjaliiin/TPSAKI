@@ -5,26 +5,28 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
-#EXTINF:-1,RTS 3 HD
-http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/51
+#EXTINF:-1,HRT 1 HD
+http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/5372
+#EXTINF:-1,HRT 2 HD
+http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/5374
+#EXTINF:-1,HRT 3 HD
+http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/5375
 
-#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts3hd.gif" group-title="Srbija",RTS 3 HD
-http://gradina1.info:80/live/Rozder276/Rozder27678/1529.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://www.tvbalkanuzivo.com/hrt-1/",Hrt 1
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="https://www.tvbalkanuzivo.com/uploads/kanal/26680hrt-2.png",Hrt 2
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="https://www.tvbalkanuzivo.com/uploads/kanal/25754hrt-3.png",Hrt 3
+https://webtvstream.bhtelecom.ba/hrt3
 
-#EXTINF:-1 tvg-id="rts3" tvg-name="RTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/2560px-RTS_3_logo.svg.png",Rts 3
-http://185.81.240.65:15000/udp/233.233.233.36:12000
 
 
-#EXTINF:-1 group-title="02. HRVATSKI",HRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
-http://strimer1.iptv-max.com:93/live?channelId=65&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
 #EXTINF:-1 group-title="02. HRVATSKI",HRT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
 http://sport.ddstream.info:7112/live?channelId=1699&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
 #EXTINF:-1 group-title="02. HRVATSKI",HRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
 http://strimer3.iptv-max.com:95/live?channelId=66&uid=16869&deviceMac=00:1A:79:40:93:C5&deviceSn=d603a6f342deb&token=513787671443
-#EXTINF:-1 group-title="02. HRVATSKI",HRT 2 HD *hevc*
 
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
