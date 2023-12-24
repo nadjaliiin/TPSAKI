@@ -17,6 +17,12 @@ http://gradina1.info:80/live/Rozder276/Rozder27678/1529.ts
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
 http://alternator.pro:80/live/Rozder276/Rozder27678/1529.ts
 
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts3hd.gif" group-title="Srbija",RTS 3 
+http://alternator.pro:80/live/Rozder276/Rozder27678/1529.ts
+
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 HD" tvg-logo="http://smartntv.pro/logokanali/srb/rts3.pngf" group-title="Srbija",RTS 3 HD
+http://gradina1.info:80/live/Rozder276/Rozder27678/1529.ts
+
 #EXTINF:-1 tvg-id="rts3" tvg-name="RTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/2560px-RTS_3_logo.svg.png",Rts 3
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 
