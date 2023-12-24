@@ -5,6 +5,11 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts2hd.gif" group-title="Srbija",RTS 2 HD
+http://alternator.pro:80/live/Rozder276/Rozder27678/17.ts
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts3hd.gif" group-title="Srbija",RTS 3 HD
+http://alternator.pro:80/live/Rozder276/Rozder27678/1529.ts
+
 
 #EXTINF:-1 group-title="02. HRVATSKI",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 234 Safari/533.3
