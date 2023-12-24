@@ -5,6 +5,19 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
+#EXTINF:-1 tvg-id="58" tvg-name="RTS 3 SR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/393px-RTS_3_logo.svg.png?20150919111451" group-title="Srbija",RTS 3 SR - RTS 3 SR
+http://202.61.237.244:8000/live?channelId=58&uid=5454&deviceMac=00:1A:79:10:EF:06
+
+#EXTINF:-1,RTS 3 HD
+http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/51
+
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts3hd.gif" group-title="Srbija",RTS 3 HD
+http://gradina1.info:80/live/Rozder276/Rozder27678/1529.ts
+
+#EXTINF:-1 tvg-id="rts3" tvg-name="RTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/2560px-RTS_3_logo.svg.png",Rts 3
+http://185.81.240.65:15000/udp/233.233.233.36:12000
+
+
 #EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts2hd.gif" group-title="Srbija",RTS 2 HD
 http://alternator.pro:80/live/Rozder276/Rozder27678/17.ts
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts3hd.gif" group-title="Srbija",RTS 3 HD
