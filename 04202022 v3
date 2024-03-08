@@ -5,8 +5,11 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS 2" tvg-logo="https://asiagrandiptv.us/logo/rts2.png" group-title="EX-YU",EX-YU: RTS 2
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/23185.m3u8
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rts2.png" group-title="Srbija",RTS 2 
+http://smartntv.pro:25461/L1b3rt@sn0val1n1j}@=A!q!}/x7=@1}K!txR=}zYL@hW}vS@b}Zli=bQ}1Xw=n/6314
+
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rts2.png" group-title="Srbija",RTS 2 
+http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6314
 
 #EXTINF:-1,[EX-YU]_RTS 2
 http://live.maxcimo.com:8000/ahmedgn/kech/4277
