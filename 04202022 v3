@@ -8,6 +8,9 @@ https://live.akous.gr/akous80s
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS 2" tvg-logo="https://asiagrandiptv.us/logo/rts2.png" group-title="EX-YU",EX-YU: RTS 2
 http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/23185.m3u8
 
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts2hd.gif" group-title="Srbija",RTS 2 HD
+http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/17
+
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://www.tvbalkanuzivo.com/hrt-1/",Hrt 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="https://www.tvbalkanuzivo.com/uploads/kanal/26680hrt-2.png",Hrt 2
