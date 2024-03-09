@@ -5,17 +5,7 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
-#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rts2.png" group-title="Srbija",RTS 2 
-http://smartntv.pro:25461/L1b3rt@sn0val1n1j}@=A!q!}/x7=@1}K!txR=}zYL@hW}vS@b}Zli=bQ}1Xw=n/6314
 
-#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 " tvg-logo="http://smartntv.pro/logokanali/srb/rts2.png" group-title="Srbija",RTS 2 
-http://smartntv.pro:25461/888mirobec/ocLxZY2gmO/6314
-
-#EXTINF:-1,[EX-YU]_RTS 2
-http://live.maxcimo.com:8000/ahmedgn/kech/4277
-
-#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rts2hd.gif" group-title="Srbija",RTS 2 HD
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/17
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://www.tvbalkanuzivo.com/hrt-1/",Hrt 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
@@ -27,12 +17,6 @@ https://webtvstream.bhtelecom.ba/hrt3
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
 http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/25786
-
-#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 32 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2027
-
-#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 22 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2025
 
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt2.png" group-title="Hrvatska",HRT 2 
 http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/24744
