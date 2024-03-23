@@ -7,7 +7,8 @@ https://live.akous.gr/akous80s
 
 #EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="Croatia",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8#EXTINF:-1,[EX-YU]_RTS 1
-
+#EXTINF:-1,AL JAZEERA BALKANS HD
+http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/3739
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://www.tvbalkanuzivo.com/hrt-1/",Hrt 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="https://www.tvbalkanuzivo.com/uploads/kanal/26680hrt-2.png",Hrt 2
