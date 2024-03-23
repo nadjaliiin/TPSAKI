@@ -6,14 +6,11 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 https://live.akous.gr/akous80s
 
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://neon-tv.online:82/live?cId=61&uid=5454&deviceMac=00:1A:79:10:EF:06
+http://iptv-pla.net:2052/49459551/72609676/15937
 
+#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
+http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/60
 
-#EXTINF:-1,[SRB] PRVA TV ᴴᴰ
-http://1.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/171
-
-#EXTINF:-1 tvg-id="61" tvg-name="Prva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Logo_PRVA_2015.png/220px-Logo_PRVA_2015.png" group-title="Srbija",Prva TV - Prva TV
-http://163.172.223.237:8000/live?channelId=61&uid=9690&deviceMac=00:1A:79:42:CD:B8
 
 #EXTINF:-1,[SRB] PRVA TV ᴴᴰ
 http://live.maxcimo.com:8000/ahmedgn/kech/36232
