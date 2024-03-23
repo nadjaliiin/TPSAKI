@@ -5,25 +5,8 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://iptv-pla.net:2052/49459551/72609676/15937
-
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://ott.global-telecom.eu:25461/jasmingusic4926/jVsPzJVVGp/60
-
-
-#EXTINF:-1,[SRB] PRVA TV ᴴᴰ
-http://live.maxcimo.com:8000/ahmedgn/kech/36232
-
-#EXTINF:-1,[SRB] PRVA TV ᴴᴰ
-http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/28292
-
-
-#EXTINF:-1,[SRB] PRVA TV ᴴᴰ
-
-
-
-
+#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="Croatia",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8#EXTINF:-1,[EX-YU]_RTS 1
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://www.tvbalkanuzivo.com/hrt-1/",Hrt 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
@@ -32,20 +15,17 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3" tvg-logo="https://www.tvbalkanuzivo.com/uploads/kanal/25754hrt-3.png",Hrt 3
 https://webtvstream.bhtelecom.ba/hrt3
 
-
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt1.png" group-title="Hrvatska",HRT 1 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/25786
-
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt2.png" group-title="Hrvatska",HRT 2 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/24744
-
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 1 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22713
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 2 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22714
 
 #EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2026
+http://live.maxcimo.com:8000/ahmedgn/kech/4276
 
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/13820
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38845
 
 
 #EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
@@ -63,114 +43,77 @@ http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/80025
  
  
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1460
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/28292
 
 #EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus HD RS" tvg-logo="https://picon-13398.kxcdn.com/prvaplusexyu.jpg" group-title="Live: ex-Yu Countries",Prva Plus HD RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1459
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/28293
 
 #EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World RS" tvg-logo="https://picon-13398.kxcdn.com/prvaworldexyu.jpg" group-title="Live: ex-Yu Countries",Prva World RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/13798
+http://live.maxcimo.com:8000/ahmedgn/kech/36224
 
 #EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink HD RS" tvg-logo="https://picon-13398.kxcdn.com/pinkexyu.jpg" group-title="Live: ex-Yu Countries",Pink HD RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/71021
+http://live.maxcimo.com:8000/ahmedgn/kech/36205
  
 #EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17262
+http://live.maxcimo.com:8000/ahmedgn/kech/36233
 
 #EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="Prva Kick RS" tvg-logo="https://picon-13398.kxcdn.com/prvakickrs.jpg" group-title="Live: ex-Yu Countries",Prva Kick RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/28045
+http://live.maxcimo.com:8000/ahmedgn/kech/36234
 
 #EXTINF:-1 tvg-id="N1.rs" tvg-name="N1 HD RS" tvg-logo="https://picon-13398.kxcdn.com/n1rsexyu.jpg" group-title="Live: ex-Yu Countries",N1 HD RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/3197
+http://live.maxcimo.com:8000/ahmedgn/kech/36234
 
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova S FHD RS" tvg-logo="https://picon-13398.kxcdn.com/novasrs.jpg" group-title="Live: ex-Yu Countries",Nova S FHD RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/19166
+http://live.maxcimo.com:8000/ahmedgn/kech/3450
 
 #EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="Live: ex-Yu Countries",Pink Romance RS
-http://45.12.1.14:80/DraganKostov/tff78a3065/3200 
-
-#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance RS" tvg-logo="https://picon-13398.kxcdn.com/pinkromanceexyu.jpg" group-title="Live: ex-Yu Countries",Pink Romance RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/3200
+http://live.maxcimo.com:8000/ahmedgn/kech/7020
 
 #EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="Pink Plus RS" tvg-logo="https://picon-13398.kxcdn.com/pinkplusexyu.jpg" group-title="Live: ex-Yu Countries",Pink Plus RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/3198
+http://live.maxcimo.com:8000/ahmedgn/kech/36217
 
 #EXTINF:-1 tvg-id="PinkFamily.rs" tvg-name="Pink Family RS" tvg-logo="https://picon-13398.kxcdn.com/pinkfamilyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Family RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/23848
+http://live.maxcimo.com:8000/ahmedgn/kech/36209
 
 #EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="Pink Premium RS" tvg-logo="https://picon-13398.kxcdn.com/pinkpremiumexyu.jpg" group-title="Live: ex-Yu Countries",Pink Premium RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2029
+http://live.maxcimo.com:8000/ahmedgn/kech/737
 
 #EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="Pink Movies RS" tvg-logo="https://picon-13398.kxcdn.com/pinkmoviesexyu.jpg" group-title="Live: ex-Yu Countries",Pink Movies RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/13758
+http://live.maxcimo.com:8000/ahmedgn/kech/747
 
 #EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="Pink Action RS" tvg-logo="https://picon-13398.kxcdn.com/pinkactionexyu.jpg" group-title="Live: ex-Yu Countries",Pink Action RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2041
+http://live.maxcimo.com:8000/ahmedgn/kech/748
 
 #EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="Pink Comedy RS" tvg-logo="https://picon-13398.kxcdn.com/pinkcomedyexyu.jpg" group-title="Live: ex-Yu Countries",Pink Comedy RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2045
+http://live.maxcimo.com:8000/ahmedgn/kech/771
 
 #EXTINF:-1 tvg-id="" tvg-name=" Movies " tvg-logo="http://smartntv.pro/logokanali/film/movies.png" group-title="Film & Serije", Movies 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2022
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://smartntv.pro/logokanali/film/amc.png" group-title="Film & Serije",AMC
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17276
-#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="http://smartntv.pro/logokanali/film/axnspin.png" group-title="Film & Serije",AXN Spin
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/28394
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria " tvg-logo="http://smartntv.pro/logokanali/film/hbo.png" group-title="Film & Serije",HBO Adria 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1452
-#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 " tvg-logo="http://smartntv.pro/logokanali/film/hbo2.png" group-title="Film & Serije",HBO 2 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17920
-#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3 " tvg-logo="http://smartntv.pro/logokanali/film/hbo3.png" group-title="Film & Serije",HBO 3 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17918
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1 " tvg-logo="http://smartntv.pro/logokanali/film/cinemax1.png" group-title="Film & Serije",Cinemax 1 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2022
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax 1  - Rezerva" tvg-logo="http://smartntv.pro/logokanali/film/cinemax1.png" group-title="Film & Serije",Cinemax 1  - Rezerva
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2023
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2 " tvg-logo="http://smartntv.pro/logokanali/film/cinemax2.png" group-title="Film & Serije",Cinemax 2 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2023
-#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax 2  - Rezerva" tvg-logo="http://smartntv.pro/logokanali/film/cinemax2.png" group-title="Film & Serije",Cinemax 2  - Rezerva
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/2023
-#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="Cinestar TV 1 " tvg-logo="http://smartntv.pro/logokanali/film/cinestartv1.png" group-title="Film & Serije",Cinestar TV 1 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/13794
-#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="Cinestar Action" tvg-logo="http://smartntv.pro/logokanali/film/cinestaraction.png" group-title="Film & Serije",Cinestar Action
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/3180
-#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="Cinestar Fantasy " tvg-logo="http://smartntv.pro/logokanali/film/cinestarfantasy.png" group-title="Film & Serije",Cinestar Fantasy 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/24331
-#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="Cinestar Premiere 1 " tvg-logo="http://smartntv.pro/logokanali/film/cinestarpremiere1.png" group-title="Film & Serije",Cinestar Premiere 1 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1468
-#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="Cinestar Premiere 2 " tvg-logo="http://smartntv.pro/logokanali/film/cinestarpremiere2.png" group-title="Film & Serije",Cinestar Premiere 2 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1469
-#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="Cinestar Comedy" tvg-logo="http://smartntv.pro/logokanali/film/cinestarcomedy.png" group-title="Film & Serije",Cinestar Comedy
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/80022
-#EXTINF:-1 tvg-id="fox" tvg-name="Fox TV " tvg-logo="http://smartntv.pro/logokanali/film/foxtv.png" group-title="Film & Serije",Fox TV 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/52133
-#EXTINF:-1 tvg-id="fox-movies" tvg-name="Fox Movies " tvg-logo="http://smartntv.pro/logokanali/film/foxmovies.png" group-title="Film & Serije",Fox Movies 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1451
-#EXTINF:-1 tvg-id="fox-crime" tvg-name="Fox Crime " tvg-logo="http://smartntv.pro/logokanali/film/foxcrime.png" group-title="Film & Serije",Fox Crime 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1449
-#EXTINF:-1 tvg-id="fox-life" tvg-name="Fox Life " tvg-logo="http://smartntv.pro/logokanali/film/foxlife.png" group-title="Film & Serije",Fox Life 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1450
-#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film " tvg-logo="http://smartntv.pro/logokanali/film/m1film.png" group-title="Film & Serije",M1 Film 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/27547
-#EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Film Gold" tvg-logo="http://smartntv.pro/logokanali/film/m1filmgold.png" group-title="Film & Serije",M1 Film Gold
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/27547
-
-#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV " tvg-logo="http://smartntv.pro/logokanali/film/kinotv.png" group-title="Film & Serije",Kino TV 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/27548
-#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA TV" tvg-logo="http://smartntv.pro/logokanali/film/divatv.png" group-title="Film & Serije",DIVA TV
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/13770
-#EXTINF:-1 tvg-id="epic-drama" tvg-name="Epic Drama " tvg-logo="http://smartntv.pro/logokanali/film/epicdrama.png" group-title="Film & Serije",Epic Drama 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/80025
-#EXTINF:-1 tvg-id="cinemania" tvg-name="Cineman" tvg-logo="http://smartntv.pro/logokanali/film/cinemania.png" group-title="Film & Serije",Cineman
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17270
-#EXTINF:-1 tvg-id="docubox-hd" tvg-name="Docu & Style" tvg-logo="http://smartntv.pro/logokanali/docu/docubox.png" group-title="Docu & Style",Docu & Style
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/20143
-
-#EXTINF:-1 tvg-id="superstar-tv" tvg-name="SUPERSTAR " tvg-logo="http://smartntv.pro/logokanali/srb/superstartv.png" group-title="Srbija",SUPERSTAR 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/27308
-
+http://live.maxcimo.com:8000/ahmedgn/kech/747
  
+#EXTINF:-1,[EX-YU]_CINEMAX 1 HD 
+http://live.maxcimo.com:8000/ahmedgn/kech/706
+#EXTINF:-1,[EX-YU]_CINEMAX 2
+http://live.maxcimo.com:8000/ahmedgn/kech/705
+#EXTINF:-1,[EX-YU]_CINESTAR ACTION
+http://live.maxcimo.com:8000/ahmedgn/kech/703
+#EXTINF:-1,[EX-YU]_CINESTAR PREMIERE 1 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/50
+#EXTINF:-1,[EX-YU]_CINESTAR PREMIERE 2 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/702
+#EXTINF:-1,[EX-YU]_CINESTAR TV
+http://live.maxcimo.com:8000/ahmedgn/kech/704
+#EXTINF:-1,[EX-YU]_FOX CRIME
+http://live.maxcimo.com:8000/ahmedgn/kech/708
+#EXTINF:-1,[EX-YU]_FOX LIFE
+http://live.maxcimo.com:8000/ahmedgn/kech/707
+#EXTINF:-1,[EX-YU]_FOX MOVIES
+http://live.maxcimo.com:8000/ahmedgn/kech/731
 
+#EXTINF:-1 tvg-id="" tvg-name="EXJU:Nova Family" tvg-logo="" group-title="EX-YUGO",EXJU:Nova Family
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/28313
+#EXTINF:-1 tvg-id="" tvg-name="EXJU:Nova Cinema" tvg-logo="" group-title="EX-YUGO",EXJU:Nova Cinema
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/28314
+ 
  
 
  
@@ -180,83 +123,15 @@ http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/27308
 http://c.proserver.in:8080/mbdqDBQjuVv/DTJ9MBZdfHu/247833
 
  
- 
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.rs" tvg-name="Discovery Channel RS" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: ex-Yu Countries",Discovery Channel RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1445
-
-
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science " tvg-logo="http://smartntv.pro/logokanali/docu/discoveryscience.png" group-title="Docu & Style",Discovery Science 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/80023
-
-#EXTINF:-1 tvg-id="DiscoveryIDXtra.rs" tvg-name="DTX HR" tvg-logo="https://picon-13398.kxcdn.com/dtx.jpg" group-title="Live: ex-Yu Countries",DTX HR
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17924
-
-
-#EXTINF:-1 tvg-id="NationalGeographic.rs" tvg-name="National Geographic RS" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: ex-Yu Countries",National Geographic RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/28070
-
-
-#EXTINF:-1 tvg-id="NatGeoWild.rs" tvg-name="National Geographic Wild RS" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: ex-Yu Countries",National Geographic Wild RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17923
-
-
-#EXTINF:-1 tvg-id="TravelChannel.hr" tvg-name="Travel Channel RS" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: ex-Yu Countries",Travel Channel RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17865
-
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/13820
-
-#EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment " tvg-logo="http://smartntv.pro/logokanali/docu/enterta.png" group-title="Docu & Style",E! Entertainment 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1467
-
- #EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="http://smartntv.pro/logokanali/docu/cbsreality.png" group-title="Docu & Style",CBS Reality
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17269
-
-#EXTINF:-1 tvg-id="doku-tv" tvg-name="DokuTV " tvg-logo="http://smartntv.pro/logokanali/docu/docutv.png" group-title="Docu & Style",DokuTV 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/80024
-
-#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBox " tvg-logo="http://smartntv.pro/logokanali/docu/docubox.png" group-title="Docu & Style",DocuBox 
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/20143
-
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://smartntv.pro/logokanali/docu/davinchilearn.png" group-title="Docu & Style",Da Vinci Learning
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17272
-
-#EXTINF:-1 tvg-id="HistoryChannel.hr" tvg-name="History HR" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: ex-Yu Countries",History HR
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/1454
-
-
-#EXTINF:-1 tvg-id="HistoryChannel2.rs" tvg-name="H2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/h2hd.jpg" group-title="Live: ex-Yu Countries",H2 FHD RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/22972
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17262
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/DraganKostov/tff78a3065/17262
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/M04P382t2x/ibjZax0455/17262
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/S56wnST01/LXmviu94/17262
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/dvHR8wX321/W7GKTp785/17262
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17262
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/29430
-
-#EXTINF:-1 tvg-id="B92.rs" tvg-name="B92 RS" tvg-logo="https://picon-13398.kxcdn.com/b92rs.jpg" group-title="Live: ex-Yu Countries",B92 RS
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/17262
+ #EXTINF:-1 tvg-id="" tvg-name="XYU Discovery HD" tvg-logo="" group-title="** DOCUMENTARIES **",XYU Discovery HD
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38828
+#EXTINF:-1 tvg-id="" tvg-name="XYU BBC Earth HD" tvg-logo="" group-title="** DOCUMENTARIES **",XYU BBC Earth HD
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38829
+#EXTINF:-1 tvg-id="" tvg-name="XYU Discovery CI HD" tvg-logo="" group-title="** DOCUMENTARIES **",XYU Discovery CI HD
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38830
+#EXTINF:-1 tvg-id="" tvg-name="XYU Discovery SCi HD" tvg-logo="" group-title="** DOCUMENTARIES **",XYU Discovery SCi HD
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38831
+#EXTINF:-1 tvg-id="" tvg-name="XYU Discovery ID HD" tvg-logo="" group-title="** DOCUMENTARIES **",XYU Discovery ID HD
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38832
+#EXTINF:-1 tvg-id="" tvg-name="XYU Discovery ID Xtra HD" tvg-logo="" group-title="** DOCUMENTARIES **",XYU Discovery ID Xtra HD
+http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38833
