@@ -8,22 +8,9 @@ https://live.akous.gr/akous80s
 #EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
 http://neon-tv.online:82/live?cId=61&uid=5454&deviceMac=00:1A:79:10:EF:06
 
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://gradina1.info:80/live/Rozder276/Rozder27678/25974.ts
-
-#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva TV RS" tvg-logo="https://picon-13398.kxcdn.com/prvaexyu.jpg" group-title="Live: ex-Yu Countries",Prva TV RS
-http://alternator.pro:80/live/Rozder276/Rozder27678/25974.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SR: PRVA TV HD" tvg-logo="" group-title="EX-YU",SR: PRVA TV HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/112083
-
 
 #EXTINF:-1,[SRB] PRVA TV ᴴᴰ
 http://1.z-ott.com:80/34s4h73iIb/XST2TlQ3kf/171
-
-#EXTINF:-1 tvg-id="" tvg-name="SR: PRVA TV HD" tvg-logo="" group-title="EX-YU",SR: PRVA TV HD
-http://medotv.nl:8000/Naas297456/xmSfHjpS39WK/112083
-
 
 #EXTINF:-1 tvg-id="61" tvg-name="Prva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Logo_PRVA_2015.png/220px-Logo_PRVA_2015.png" group-title="Srbija",Prva TV - Prva TV
 http://163.172.223.237:8000/live?channelId=61&uid=9690&deviceMac=00:1A:79:42:CD:B8
