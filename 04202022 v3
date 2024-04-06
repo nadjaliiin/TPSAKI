@@ -19,10 +19,6 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8#EXTINF:-1,[EX-YU]_RTS 1
 
 
-#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 " tvg-logo="http://smartntv.pro/logokanali/srb/rts3.png" group-title="Srbija",RTS 3 
-http://live.maxcimo.com:8000/ahmedgn/kech/4276
-
-
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
 http://cimpuday70.com:19051/ChnlsRed3413/sulcomun2306/38845
 
