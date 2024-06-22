@@ -21,8 +21,18 @@ http://neon-tv.online:82/live?cId=29&uid=5454&deviceMac=00:1A:79:10:EF:06
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 " tvg-logo="http://smartntv.pro/logokanali/hrv/hrt2.png" group-title="Hrvatska",HRT 2 
 http://neon-tv.online:82/live?cId=30&uid=5454&deviceMac=00:1A:79:10:EF:06
 
+
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Prva Plus" tvg-logo="" group-title="Ex-Yu",EX YU: Prva Plus
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/29380
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Aljazeera FHD" tvg-logo="http://hs-iptv.net:88/images/658d33b0bd5fee9782c0aefc0ee5e80e.png" group-title="Ex-Yu",BIH: Aljazeera FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/50896
+
+
 #EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="Croatia",Al Jazeera Balkans
 http://admin.vlagor-iptv.com:80/live.ts?channelId=128&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+
 
 
 #EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="http://smartntv.pro/logokanali/docu/tlc.png" group-title="Docu & Style",TLC
