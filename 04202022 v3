@@ -97,7 +97,18 @@ http://admin.vlagor-iptv.com:80/live.ts?channelId=112&deviceUser=kironemacka&dev
 
 #EXTINF:-1 tvg-id="" tvg-name=" Movies " tvg-logo="http://smartntv.pro/logokanali/film/movies.png" group-title="Film & Serije", Movies 
 http://live.maxcimo.com:8000/ahmedgn/kech/747
- 
+
+
+#EXTINF:-1 tvg-id="hbo.movie" tvg-link="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-name="HBO" tvg-logo="#http://5.189.151.71/hbo_my_hd.png" group-title="Croatian",HBO
+http://admin.vlagor-iptv.com:80/live.ts?channelId=154&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="HBO 2" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="HBO 2" tvg-logo="http://5.189.151.71/hbo2_us_hd.png" group-title="Croatian",HBO 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=155&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="HBO 3-EXYU" tvg-link="http://epg.enjoy-iptv.com/epg/guide-exyu.xml" tvg-name="HBO 3" tvg-logo="http://5.189.151.71/hbo3_ce.png" group-title="Croatian",HBO 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=247&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="HBO Max" tvg-link="" tvg-name="HBO Max" tvg-logo="" group-title="Croatian",HBO Max
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1278&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+
+
 #EXTINF:-1,[EX-YU]_CINEMAX 1 HD 
 http://admin.vlagor-iptv.com:80/live.ts?channelId=152&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
 #EXTINF:-1,[EX-YU]_CINEMAX 2
