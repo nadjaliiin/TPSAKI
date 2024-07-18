@@ -5,7 +5,11 @@ http://vipuhdteam.com:8080/Oscambirdy/8bZ38jsHZn
 #EXTINF:-1 tvg-id="radio" tvg-name="Akous Radio" 
 https://live.akous.gr/akous80s
 
+#EXTINF:-1 tvg-id="RTS1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/logo/RTS1_SRB.png",RTS1
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts1
 
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu:PINK COMEDY" tvg-logo="" group-title="EX-YU",Ex-Yu:PINK COMEDY
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/6968
 
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://www.tvbalkanuzivo.com/hrt-1/",Hrt 1
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
